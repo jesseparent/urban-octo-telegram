@@ -65,18 +65,6 @@ header div ul li {
     background-position: center;
 }
 
-/* Image Floats */
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 /* Content */
 
 .content {
@@ -101,6 +89,18 @@ header div ul li {
 
 .content img {
     max-height: 200px;
+}
+
+/* Image Floats for Content */
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 
 /* Benefits */ 
