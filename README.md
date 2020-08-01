@@ -1,12 +1,10 @@
 # Code Refactor Starter Code
-
-## Code refactor for accessibility and efficiency
 In this project, existing code was examined and changed to 
 1. Match the image mock-up (which appears to target 1152 x 864 browser size)
 2. Eliminate redundant CSS markup
 3. Make the HTML in the Web page more accessible
 
-### HTML Changes
+## HTML Changes
 - Added comments and whitespace throughout for each section
 - Changed title text to Horiseon
 - Changed divs to semantic elements
@@ -17,7 +15,7 @@ In this project, existing code was examined and changed to
 - Removed classes on each content div because they are all styled the same
 - Removed classes on each benefit div because they are all styled the same
 
-### CSS Changes
+## CSS Changes
 - Comments for each section
 - Organized general styles for tags together
 - Changed classes to work for new semantic elements
