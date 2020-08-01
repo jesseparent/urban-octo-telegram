@@ -27,7 +27,7 @@ In this project, existing code was examined for the Horiseon Web site. Changes w
 - Removed unnecessary footer h2 styling
 
 ## Deployed Application
-- The web page can be found at (https://jesseparent.github.io/urban-octo-telegram/Develop/)
+- The web page can be found at [https://jesseparent.github.io/urban-octo-telegram/Develop/](https://jesseparent.github.io/urban-octo-telegram/Develop/)
 
 ## Screenshot
 - The screenshot of the final work can be found at ![Image](./screenshot.png)
