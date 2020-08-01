@@ -1,4 +1,12 @@
-# Code Refactor Starter Code
+# Code Refactor for Horiseon Web Site
+## Table of Contents
+- [Summary](#summary)
+- [HTML Changes](#html-changes)
+- [CSS Changes](#css-changes)
+- [Deployed Application](#deployed-application)
+- [Screenshot](#screenshot)
+
+## Summary
 In this project, existing code was examined for the Horiseon Web site. Changes were made to: 
 1. Match the image mock-up (which appears to target 1152 x 864 browser size)
 2. Eliminate redundant CSS markup
