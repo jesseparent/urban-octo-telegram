@@ -1,5 +1,5 @@
 # Code Refactor Starter Code
-In this project, existing code was examined and changed to 
+In this project, existing code was examined for the Horiseon Web site. Changes were made to: 
 1. Match the image mock-up (which appears to target 1152 x 864 browser size)
 2. Eliminate redundant CSS markup
 3. Make the HTML in the Web page more accessible
@@ -25,3 +25,9 @@ In this project, existing code was examined and changed to
 - Consolidated benefit classes since they all use the same styling
 - Changed footer padding to match mock-up
 - Removed unnecessary footer h2 styling
+
+## Deployed Application
+- The web page can be found at (https://jesseparent.github.io/urban-octo-telegram/Develop/)
+
+## Screenshot
+- The screenshot of the final work can be found at ![Image](./screenshot.png)
